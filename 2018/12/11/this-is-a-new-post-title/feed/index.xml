@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: This is a new post title</title>
+	<atom:link href="http://localhost/thera/2018/12/11/this-is-a-new-post-title/feed/" rel="self" type="application/rss+xml" />
+	<link>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Dec 2018 21:58:39 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>By: root</title>
+		<link>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/#comment-2</link>
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 11 Dec 2018 21:58:39 +0000</pubDate>
+		<guid isPermaLink="false">http://jsbryce1.github.io/thera/?p=9#comment-2</guid>
+		<description><![CDATA[this is a comment]]></description>
+		<content:encoded><![CDATA[<p>this is a comment</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
