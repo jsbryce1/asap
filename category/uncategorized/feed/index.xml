@@ -10,42 +10,42 @@
 <channel>
 	<title>Uncategorized &#8211; ASAProject</title>
 	<atom:link href="http://localhost/thera/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://jsbryce1.github.io/thera</link>
+	<link>https://jsbryce1.github.io/thera</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Dec 2018 22:02:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jan 2019 22:49:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.2</generator>
 	<item>
 		<title>This is a new post title</title>
-		<link>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>
-		<comments>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/#comments</comments>
+		<link>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>
+		<comments>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/#comments</comments>
 		<pubDate>Tue, 11 Dec 2018 21:54:32 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://jsbryce1.github.io/thera/?p=9</guid>
+		<guid isPermaLink="false">https://jsbryce1.github.io/thera/?p=9</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[
-<figure class="wp-block-image"><img src="http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg" alt="" class="wp-image-5" srcset="http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg 1024w, http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-300x169.jpg 300w, http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-768x432.jpg 768w, http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-990x556.jpg 990w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img src="https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg" alt="" class="wp-image-5" srcset="https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg 1024w, https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-300x169.jpg 300w, https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-768x432.jpg 768w, https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-990x556.jpg 990w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Hello world!</title>
-		<link>http://jsbryce1.github.io/thera/2018/12/11/hello-world/</link>
-		<comments>http://jsbryce1.github.io/thera/2018/12/11/hello-world/#comments</comments>
+		<link>https://jsbryce1.github.io/thera/2018/12/11/hello-world/</link>
+		<comments>https://jsbryce1.github.io/thera/2018/12/11/hello-world/#comments</comments>
 		<pubDate>Tue, 11 Dec 2018 06:38:12 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://jsbryce1.github.io/thera/?p=1</guid>
+		<guid isPermaLink="false">https://jsbryce1.github.io/thera/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2018/12/11/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2018/12/11/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

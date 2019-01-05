@@ -10,48 +10,48 @@
 <channel>
 	<title>root &#8211; ASAProject</title>
 	<atom:link href="http://localhost/thera/author/root/feed/" rel="self" type="application/rss+xml" />
-	<link>http://jsbryce1.github.io/thera</link>
+	<link>https://jsbryce1.github.io/thera</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Dec 2018 22:02:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jan 2019 22:49:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.2</generator>
 	<item>
 		<title>This is a new post title</title>
-		<link>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>
-		<comments>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/#comments</comments>
+		<link>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>
+		<comments>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/#comments</comments>
 		<pubDate>Tue, 11 Dec 2018 21:54:32 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://jsbryce1.github.io/thera/?p=9</guid>
+		<guid isPermaLink="false">https://jsbryce1.github.io/thera/?p=9</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[
-<figure class="wp-block-image"><img src="http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg" alt="" class="wp-image-5" srcset="http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg 1024w, http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-300x169.jpg 300w, http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-768x432.jpg 768w, http://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-990x556.jpg 990w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img src="https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg" alt="" class="wp-image-5" srcset="https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-1024x576.jpg 1024w, https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-300x169.jpg 300w, https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-768x432.jpg 768w, https://jsbryce1.github.io/thera/wp-content/uploads/2018/12/howls-990x556.jpg 990w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Hello world!</title>
-		<link>http://jsbryce1.github.io/thera/2018/12/11/hello-world/</link>
-		<comments>http://jsbryce1.github.io/thera/2018/12/11/hello-world/#comments</comments>
+		<link>https://jsbryce1.github.io/thera/2018/12/11/hello-world/</link>
+		<comments>https://jsbryce1.github.io/thera/2018/12/11/hello-world/#comments</comments>
 		<pubDate>Tue, 11 Dec 2018 06:38:12 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://jsbryce1.github.io/thera/?p=1</guid>
+		<guid isPermaLink="false">https://jsbryce1.github.io/thera/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2018/12/11/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2018/12/11/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Don&#8217;t miss our next event</title>
-		<link>http://jsbryce1.github.io/thera/2015/03/10/dont-miss-our-next-event/</link>
-		<comments>http://jsbryce1.github.io/thera/2015/03/10/dont-miss-our-next-event/#respond</comments>
+		<link>https://jsbryce1.github.io/thera/2015/03/10/dont-miss-our-next-event/</link>
+		<comments>https://jsbryce1.github.io/thera/2015/03/10/dont-miss-our-next-event/#respond</comments>
 		<pubDate>Tue, 10 Mar 2015 09:57:52 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -62,13 +62,13 @@
 <p>Pellentesque consectetur massa nec nulla fermentum, at tincidunt elit volutpat. Duis vulputate placerat tortor, sit amet eleifend mauris tincidunt sit amet. Aliquam a maximus ligula. Phasellus nec sapien sed tellus tempor eleifend id a erat. Donec convallis bibendum posuere. Quisque mollis imperdiet malesuada. Suspendisse eget dictum massa.</p>
 <p>Phasellus ac posuere nibh, in finibus nulla. In diam arcu, luctus sit amet condimentum sit amet, tristique et leo. Sed tincidunt justo a porttitor tristique. Nulla eu metus tincidunt, ornare magna ullamcorper, semper lacus. Quisque vitae porttitor odio, id tincidunt tellus. Fusce a suscipit eros. Proin sit amet risus fermentum, lobortis quam sed, consequat velit. Quisque sit amet ultricies lorem. Phasellus scelerisque ipsum eget ipsum posuere suscipit. Proin id molestie mauris, a venenatis ipsum. Quisque efficitur, nibh a dapibus mollis, metus tortor fermentum ante, non pellentesque mi magna non leo. Integer quis sem hendrerit, euismod dolor id, dapibus nulla. Maecenas non ultrices lorem. Pellentesque lobortis, diam eget feugiat lacinia, ante augue ullamcorper tortor, vel ornare sapien lacus pharetra quam.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2015/03/10/dont-miss-our-next-event/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2015/03/10/dont-miss-our-next-event/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>A day at the office</title>
-		<link>http://jsbryce1.github.io/thera/2015/03/10/a-day-at-the-office/</link>
-		<comments>http://jsbryce1.github.io/thera/2015/03/10/a-day-at-the-office/#respond</comments>
+		<link>https://jsbryce1.github.io/thera/2015/03/10/a-day-at-the-office/</link>
+		<comments>https://jsbryce1.github.io/thera/2015/03/10/a-day-at-the-office/#respond</comments>
 		<pubDate>Tue, 10 Mar 2015 09:56:38 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Work]]></category>
@@ -79,13 +79,13 @@
 <p>Pellentesque consectetur massa nec nulla fermentum, at tincidunt elit volutpat. Duis vulputate placerat tortor, sit amet eleifend mauris tincidunt sit amet. Aliquam a maximus ligula. Phasellus nec sapien sed tellus tempor eleifend id a erat. Donec convallis bibendum posuere. Quisque mollis imperdiet malesuada. Suspendisse eget dictum massa.</p>
 <p>Phasellus ac posuere nibh, in finibus nulla. In diam arcu, luctus sit amet condimentum sit amet, tristique et leo. Sed tincidunt justo a porttitor tristique. Nulla eu metus tincidunt, ornare magna ullamcorper, semper lacus. Quisque vitae porttitor odio, id tincidunt tellus. Fusce a suscipit eros. Proin sit amet risus fermentum, lobortis quam sed, consequat velit. Quisque sit amet ultricies lorem. Phasellus scelerisque ipsum eget ipsum posuere suscipit. Proin id molestie mauris, a venenatis ipsum. Quisque efficitur, nibh a dapibus mollis, metus tortor fermentum ante, non pellentesque mi magna non leo. Integer quis sem hendrerit, euismod dolor id, dapibus nulla. Maecenas non ultrices lorem. Pellentesque lobortis, diam eget feugiat lacinia, ante augue ullamcorper tortor, vel ornare sapien lacus pharetra quam.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2015/03/10/a-day-at-the-office/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2015/03/10/a-day-at-the-office/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Just a simple post</title>
-		<link>http://jsbryce1.github.io/thera/2015/03/10/just-a-simple-post/</link>
-		<comments>http://jsbryce1.github.io/thera/2015/03/10/just-a-simple-post/#respond</comments>
+		<link>https://jsbryce1.github.io/thera/2015/03/10/just-a-simple-post/</link>
+		<comments>https://jsbryce1.github.io/thera/2015/03/10/just-a-simple-post/#respond</comments>
 		<pubDate>Tue, 10 Mar 2015 09:53:01 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -96,7 +96,7 @@
 <p>Pellentesque consectetur massa nec nulla fermentum, at tincidunt elit volutpat. Duis vulputate placerat tortor, sit amet eleifend mauris tincidunt sit amet. Aliquam a maximus ligula. Phasellus nec sapien sed tellus tempor eleifend id a erat. Donec convallis bibendum posuere. Quisque mollis imperdiet malesuada. Suspendisse eget dictum massa.</p>
 <p>Phasellus ac posuere nibh, in finibus nulla. In diam arcu, luctus sit amet condimentum sit amet, tristique et leo. Sed tincidunt justo a porttitor tristique. Nulla eu metus tincidunt, ornare magna ullamcorper, semper lacus. Quisque vitae porttitor odio, id tincidunt tellus. Fusce a suscipit eros. Proin sit amet risus fermentum, lobortis quam sed, consequat velit. Quisque sit amet ultricies lorem. Phasellus scelerisque ipsum eget ipsum posuere suscipit. Proin id molestie mauris, a venenatis ipsum. Quisque efficitur, nibh a dapibus mollis, metus tortor fermentum ante, non pellentesque mi magna non leo. Integer quis sem hendrerit, euismod dolor id, dapibus nulla. Maecenas non ultrices lorem. Pellentesque lobortis, diam eget feugiat lacinia, ante augue ullamcorper tortor, vel ornare sapien lacus pharetra quam.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://jsbryce1.github.io/thera/2015/03/10/just-a-simple-post/feed/</wfw:commentRss>
+			<wfw:commentRss>https://jsbryce1.github.io/thera/2015/03/10/just-a-simple-post/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
