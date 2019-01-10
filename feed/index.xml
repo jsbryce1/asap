@@ -8,15 +8,15 @@
 	>
 
 <channel>
-	<title>ASAProject</title>
+	<title>ASAP WORKS</title>
 	<atom:link href="http://localhost/thera/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jsbryce1.github.io/thera</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 05 Jan 2019 22:49:42 +0000</lastBuildDate>
+	<description>ONE DAY AT A TIME</description>
+	<lastBuildDate>Thu, 10 Jan 2019 05:31:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
 	<item>
 		<title>This is a new post title</title>
 		<link>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>

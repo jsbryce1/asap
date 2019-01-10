@@ -7,13 +7,13 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; ASAProject &#8212; WordPress</title>
+	<title>Log In &lsaquo; ASAP WORKS &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='https://jsbryce1.github.io/thera/wp-includes/css/dashicons.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='https://jsbryce1.github.io/thera/wp-includes/css/buttons.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://jsbryce1.github.io/thera/wp-admin/css/forms.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://jsbryce1.github.io/thera/wp-admin/css/l10n.min.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://jsbryce1.github.io/thera/wp-admin/css/login.min.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://jsbryce1.github.io/thera/wp-includes/css/dashicons.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://jsbryce1.github.io/thera/wp-includes/css/buttons.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://jsbryce1.github.io/thera/wp-admin/css/forms.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://jsbryce1.github.io/thera/wp-admin/css/l10n.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://jsbryce1.github.io/thera/wp-admin/css/login.min.css?ver=5.0.3' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -57,7 +57,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://jsbryce1.github.io/thera/">&larr; Back to ASAProject</a></p>
+	<p id="backtoblog"><a href="https://jsbryce1.github.io/thera/">&larr; Back to ASAP WORKS</a></p>
 		
 	</div>
 
