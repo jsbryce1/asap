@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; asap  &#8212; WordPress</title>
+	<title>Log In &lsaquo; A S A P  &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='https://jsbryce1.github.io/asap/wp-includes/css/dashicons.min.css?ver=5.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='https://jsbryce1.github.io/asap/wp-includes/css/buttons.min.css?ver=5.0.3' type='text/css' media='all' />
@@ -61,7 +61,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://jsbryce1.github.io/asap/">&larr; Back to asap </a></p>
+	<p id="backtoblog"><a href="https://jsbryce1.github.io/asap/">&larr; Back to A S A P </a></p>
 		
 	</div>
 
