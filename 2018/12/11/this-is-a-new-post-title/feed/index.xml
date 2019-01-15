@@ -8,18 +8,18 @@
 <channel>
 	<title>Comments on: This is a new post title</title>
 	<atom:link href="http://localhost/thera/2018/12/11/this-is-a-new-post-title/feed/" rel="self" type="application/rss+xml" />
-	<link>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/</link>
-	<description>ONE DAY AT A TIME</description>
+	<link>https://jsbryce1.github.io/asap/2018/12/11/this-is-a-new-post-title/</link>
+	<description></description>
 	<lastBuildDate>Tue, 11 Dec 2018 21:58:39 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.3</generator>
 	<item>
 		<title>By: root</title>
-		<link>https://jsbryce1.github.io/thera/2018/12/11/this-is-a-new-post-title/#comment-2</link>
+		<link>https://jsbryce1.github.io/asap/2018/12/11/this-is-a-new-post-title/#comment-2</link>
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Tue, 11 Dec 2018 21:58:39 +0000</pubDate>
-		<guid isPermaLink="false">https://jsbryce1.github.io/thera/?p=9#comment-2</guid>
+		<guid isPermaLink="false">https://jsbryce1.github.io/asap/?p=9#comment-2</guid>
 		<description><![CDATA[this is a comment]]></description>
 		<content:encoded><![CDATA[<p>this is a comment</p>
 ]]></content:encoded>
